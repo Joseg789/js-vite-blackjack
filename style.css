@@ -1,9 +1,9 @@
-html, body {
+html,
+body {
   margin: 0px;
-  background-color: #2F4F30;
+  background-color: #2f4f30;
   color: white;
 }
-
 
 .titulo {
   text-align: center;
@@ -20,6 +20,18 @@ html, body {
   margin-left: -75px;
 }
 
-#computadora-cartas, #jugador-cartas {
+#computadora-cartas,
+#jugador-cartas {
   height: 240px;
+}
+footer {
+  text-align: center;
+  margin-top: 20px;
+  padding: 10px;
+  background-color: black;
+  color: white;
+}
+footer p {
+  margin: 0;
+  font-size: 14px;
 }
